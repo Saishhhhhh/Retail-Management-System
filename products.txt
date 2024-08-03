@@ -1,0 +1,66 @@
+		        Dairy                                   
+
+Product Id          Product Name                MRP
+
+101                 Butter             55
+102	                Cheese             150
+103		            Milk(250ml)             20
+104		            Paneer(250g)             80	
+105		            Yogurt             20
+
+
+	            Cooking Essentials      
+
+Product Id	        Product Name		        MRP
+
+201		            ChillyPowder(1kg)            350	
+202		            Coffee             125
+203		            Eggs             7
+204		            MustardOil(1L)             350
+205		            Salt(500g)             35
+206		            Sugar(1kg)             42
+207		            SunflowerOil(1 L)        150
+208		            SoyaSauce             90
+209		            TeaPowder(500g)	            250
+210		            TomatoKetchup          120
+211		            Turmeric(1kg)        250
+212		            Vinegar           80
+
+
+         	    Packaged Foods              
+				
+Product Id	        Product Name		        MRP
+
+301		            BreadPacket           40
+302		            Complan             150
+303		            CreamBiscuit            20
+304		            Horlicks            150
+305	    	        MaggieNoodles        100
+306		            MariegoldBiscuit        45
+307		            ParleBiscuit        10
+308		            Pasta            30
+
+		        Personal Care Products          
+
+Product Id	        Product Name		        MRP
+
+401		            BathingSoap              35
+402		            Deodorant            100
+403		            FacePowder            110
+404		            FaceWash            90
+405		            HairConditioner            270
+406		            ShavingCream        70
+407		            Shampoo	            90
+408		            Toothbrush            35
+409		            Toothpaste            60
+
+		        Cleaning Supplies               
+
+Product Id	    Product Name		            MRP
+
+501	   	        DetergentPowder                60
+502		        DishwashingSoap                25	
+503		        FloorCleaner            80
+504		        HandWash                150
+505		        RoomFreshener            190
+506		        ToiletCleaner            180
