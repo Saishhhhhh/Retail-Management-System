@@ -15,7 +15,7 @@ void Choice(){
         if(choice == '1'){
             Main_Menu();
         }else{
-            exit(0); //Ecit the program
+            exit(0); //Exit the program
         }
 
 }
