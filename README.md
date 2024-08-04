@@ -37,10 +37,9 @@ The Retail Management System (RMS) is a command-line application designed to man
     Use the following command to compile the project using `g++`:
 
     ```bash
-    g++ -o rms main.cpp
+    g++ -o rms p1.cpp
     ```
 
-    Replace `main.cpp` with the name of your C++ source file if it differs.
 
 4. **Run the Program:**
 
